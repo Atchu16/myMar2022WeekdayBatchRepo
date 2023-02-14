@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2>Hi and  We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	<h2>Hello Everyone!!!This is simple static web application!!!</h2>
   
 </body>
 </html>
